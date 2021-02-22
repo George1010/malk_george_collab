@@ -1,13 +1,4 @@
-import java.util.*
-class Malk_George_pro
-{
+hello
 
-public static void main(String []args)
-{
+C
 
-System.out.println("hello world1!");
-
-
-}
-
-}
